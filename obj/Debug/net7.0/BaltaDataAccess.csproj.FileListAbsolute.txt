@@ -1,0 +1,101 @@
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.exe
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.deps.json
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.runtimeconfig.json
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.pdb
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.AssemblyReference.cache
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfoInputs.cache
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfo.cs
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CoreCompileInputs.cache
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.dll
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\refint\BaltaDataAccess.dll
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.pdb
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.genruntimeconfig.cache
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\ref\BaltaDataAccess.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Azure.Core.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Azure.Identity.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Memory.Data.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CopyComplete
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.exe
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.deps.json
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.runtimeconfig.json
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.pdb
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Azure.Core.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Azure.Identity.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Memory.Data.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.AssemblyReference.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfoInputs.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfo.cs
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CoreCompileInputs.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CopyComplete
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\refint\BaltaDataAccess.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.pdb
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.genruntimeconfig.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\obj\Debug\net7.0\ref\BaltaDataAccess.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\02 - Dapper\BaltaDataAccess\bin\Debug\net7.0\Dapper.dll
